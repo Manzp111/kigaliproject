@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Niyomugabo-fabrice.github.io/kigali_harvest_school",
+  "homepage": "https://Niyomugabo-fabrice.github.io/kigaliproject",
   "name": "figma-website",
   "private": true,
   "version": "0.0.1",
@@ -9,7 +9,6 @@
     "dev": "vite",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
-
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
@@ -71,10 +70,11 @@
   },
   "devDependencies": {
     "@tailwindcss/vite": "4.1.12",
+    "@types/node": "^25.6.0",
     "@vitejs/plugin-react": "4.7.0",
     "gh-pages": "^6.3.0",
     "tailwindcss": "4.1.12",
-    "vite": "6.3.5"
+    "vite": "^6.4.2"
   },
   "pnpm": {
     "overrides": {
