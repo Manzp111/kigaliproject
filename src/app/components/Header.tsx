@@ -6,7 +6,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <img
-            src="/src/imports/WhatsApp_Image_2026-04-13_at_12.30.14.jpeg"
+            src="/imports/WhatsApp_Image_2026-04-13_at_12.30.14.jpeg"
             alt="Kigali Harvest School Logo"
             className="w-16 h-16 object-contain"
           />

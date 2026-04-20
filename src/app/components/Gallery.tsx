@@ -2,21 +2,21 @@ import { useState } from 'react';
 import { ImageModal } from './ImageModal';
 
 const galleryImages = [
-  { src: '/src/imports/10.png', alt: 'Students in uniform studying' },
-  { src: '/src/imports/DSC_3831.jpg', alt: 'School trip to airport' },
-  { src: '/src/imports/DSC_3959.jpg', alt: 'Students at airport arrival' },
-  { src: '/src/imports/Screenshot_2026-04-01_173815.png', alt: 'Graduation ceremony' },
-  { src: '/src/imports/4.png', alt: 'School building exterior' },
-  { src: '/src/imports/2.png', alt: 'Students singing at event' },
-  { src: '/src/imports/3.png', alt: 'Students in yellow uniforms' },
-  { src: '/src/imports/8.png', alt: 'Traditional dance performance' },
-  { src: '/src/imports/WhatsApp_Image_2026-04-13_at_12.24.22.jpeg', alt: 'School trip to Akagera National Park' },
-  { src: '/src/imports/WhatsApp_Image_2026-04-13_at_12.25.26.jpeg', alt: 'Students by the lake' },
-  { src: '/src/imports/WhatsApp_Image_2026-04-13_at_12.09.13.jpeg', alt: 'Students enjoying rides' },
-  { src: '/src/imports/WhatsApp_Image_2026-04-13_at_12.09.18.jpeg', alt: 'Students swimming fun day' },
-  { src: '/src/imports/1.png', alt: 'Graduation ceremony close-up' },
-  { src: '/src/imports/6.png', alt: 'Graduate students in gowns' },
-  { src: '/src/imports/Screenshot_2026-04-16_125715.png', alt: 'Graduate speaking at ceremony' }
+  { src: '/imports/10.png', alt: 'Students in uniform studying' },
+  { src: '/imports/DSC_3831.jpg', alt: 'School trip to airport' },
+  { src: '/imports/DSC_3959.jpg', alt: 'Students at airport arrival' },
+  { src: '/imports/Screenshot_2026-04-01_173815.png', alt: 'Graduation ceremony' },
+  { src: '/imports/4.png', alt: 'School building exterior' },
+  { src: '/imports/2.png', alt: 'Students singing at event' },
+  { src: '/imports/3.png', alt: 'Students in yellow uniforms' },
+  { src: '/imports/8.png', alt: 'Traditional dance performance' },
+  { src: '/imports/WhatsApp_Image_2026-04-13_at_12.24.22.jpeg', alt: 'School trip to Akagera National Park' },
+  { src: '/imports/WhatsApp_Image_2026-04-13_at_12.25.26.jpeg', alt: 'Students by the lake' },
+  { src: '/imports/WhatsApp_Image_2026-04-13_at_12.09.13.jpeg', alt: 'Students enjoying rides' },
+  { src: '/imports/WhatsApp_Image_2026-04-13_at_12.09.18.jpeg', alt: 'Students swimming fun day' },
+  { src: '/imports/1.png', alt: 'Graduation ceremony close-up' },
+  { src: '/imports/6.png', alt: 'Graduate students in gowns' },
+  { src: '/imports/Screenshot_2026-04-16_125715.png', alt: 'Graduate speaking at ceremony' }
 ];
 
 export function Gallery() {
