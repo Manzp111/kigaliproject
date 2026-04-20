@@ -2,13 +2,13 @@ import { useState, useEffect } from 'react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 const heroImages = [
-  '/src/imports/WhatsApp_Image_2026-04-13_at_12.24.22.jpeg',
-  '/src/imports/DSC_3831.jpg',
-  '/src/imports/DSC_3959.jpg',
-  '/src/imports/10.png',
-  '/src/imports/2.png',
-  '/src/imports/3.png',
-  '/src/imports/Screenshot_2026-04-01_173815.png'
+  '/imports/WhatsApp_Image_2026-04-13_at_12.24.22.jpeg',
+  '/imports/DSC_3831.jpg',
+  '/imports/DSC_3959.jpg',
+  '/imports/10.png',
+  '/imports/2.png',
+  '/imports/3.png',
+  '/imports/Screenshot_2026-04-01_173815.png'
 ];
 
 export function Hero() {
