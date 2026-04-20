@@ -67,7 +67,7 @@ export function Hero() {
             className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-lg transition-colors"
           >
             Book a Visit
-          </a>g
+          </a>
         </div>
       </div>
     </div>
