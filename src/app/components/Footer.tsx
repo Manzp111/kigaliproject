@@ -8,7 +8,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <ImageWithFallback
-                src="/src/imports/WhatsApp_Image_2026-04-13_at_12.30.14.jpeg"
+                src="/imports/WhatsApp_Image_2026-04-13_at_12.30.14.jpeg"
                 alt="Kigali Harvest School Logo"
                 className="w-12 h-12 object-contain bg-white rounded-full p-1"
               />

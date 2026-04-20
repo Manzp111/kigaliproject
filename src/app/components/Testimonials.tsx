@@ -3,19 +3,19 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 const testimonials = [
   {
     name: 'NZEYIMANA Francois Xavier',
-    image: '/src/imports/Screenshot_2026-04-16_110117.png',
+    image: '/imports/Screenshot_2026-04-16_110117.png',
     grade: 'Middle class Nursery',
     text: 'We are proud to entrust our children to this Christian school, where they are nurtured in both academic excellence and strong social values. Through diverse club activities, students grow in knowledge, character, and confidence in engaging with others.'
   },
   {
     name: 'MUTESI Adrienne',
-    image: '/src/imports/Screenshot_2026-04-16_104329.png',
+    image: '/imports/Screenshot_2026-04-16_104329.png',
     grade: 'Grade 2 and Grade 5',
     text: 'As a ministry of Restoration Church, this school instills the Word of God while nurturing children through music, drama, sports, and quality education. It builds strong values, good character, and language excellence—my children now speak English fluently both at school and at home.'
   },
   {
     name: 'KABERA Marcel',
-    image: '/src/imports/Screenshot_2026-04-16_104736.png',
+    image: '/imports/Screenshot_2026-04-16_104736.png',
     grade: 'Upper class Nursery',
     text: 'This school provides excellent teaching and academic results, helping children achieve distinction and success in their studies. Through weekly Friday sermons and prayer gatherings, students develop strong values, discipline, and admirable behavior, which is why I confidently encourage other parents to enroll their children here.'
   }
